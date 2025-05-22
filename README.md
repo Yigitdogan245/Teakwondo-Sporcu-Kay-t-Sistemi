@@ -1,1 +1,1 @@
-# Teakwondo-Sporcu-Kay-t-Sistemi
+# Teakwondo Sporcu Kayıt Sistemi
