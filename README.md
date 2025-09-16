@@ -1,1 +1,1 @@
-# Teakwondo Sporcu Kayıt Sistemi
+# Teakwondo Sporcu Kayıt Sistemi SQL
